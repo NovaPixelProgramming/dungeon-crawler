@@ -48,8 +48,11 @@ Backend:
 
 ## Credits
 Developed by Breanna Gernon (NovaPixel Games)
+
 Support and Inspiration from Stephen, Dev Founder Guy @ Breezer
+
 **More to be added**
+
 Design, code, and chaos balanced in pursuit of the perfect calorie-burning dungeon
 
 ## License
